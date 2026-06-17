@@ -1,18 +1,26 @@
-# 🏏 IPL Auction Intelligence System
+<h1 align="center">🏏 IPL Auction Intelligence System</h1>
 
-### Data-Driven Player Valuation & Auction Price Estimation Framework
+<h3 align="center">
+Data-Driven Player Valuation & Auction Price Estimation
+</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-red?style=for-the-badge" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?style=for-the-badge\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Feature%20Engineering-yellow?style=for-the-badge\&logo=scikitlearn)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge\&logo=jupyter)
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-Feature%20Engineering-yellow?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
+</p>
 
-### 📊 IPL Player Analytics | 💰 Auction Valuation | 🏆 Cricket Intelligence
-
+<h3 align="center">
+📊 IPL Player Analytics &nbsp; | &nbsp;
+💰 Auction Valuation &nbsp; | &nbsp;
+🏆 Cricket Intelligence
+</h3>
 </div>
 
 ---
